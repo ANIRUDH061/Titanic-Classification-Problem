@@ -1,12 +1,3 @@
-## Titanic Survival Prediction 
-
-Conversation with Gemini
-this is my project and want to upload on GitHub for invert level, I want to write in readme file so, provide me the content that should be written. maintain easy, friendly English but professional I want full short content including problem statement, conclusion etc.
-
-This is a great project for your portfolio! A well-structured README.md file acts as the face of your repository and helps potential employers or collaborators quickly understand what you’ve built.
-
-Here is a clean, professional, and friendly template you can copy and paste directly into your README.md file.
-
 ## Titanic Survival Prediction
 Welcome to my Titanic Survival Prediction project! This repository contains a machine learning model designed to analyze passenger data and predict whether a passenger survived the Titanic shipwreck.
 
